@@ -1,0 +1,14 @@
+D:\Tasks\Snake\Snake\bin\Debug\net6.0\Snake.exe
+D:\Tasks\Snake\Snake\bin\Debug\net6.0\Snake.deps.json
+D:\Tasks\Snake\Snake\bin\Debug\net6.0\Snake.runtimeconfig.json
+D:\Tasks\Snake\Snake\bin\Debug\net6.0\Snake.dll
+D:\Tasks\Snake\Snake\bin\Debug\net6.0\Snake.pdb
+D:\Tasks\Snake\Snake\obj\Debug\net6.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tasks\Snake\Snake\obj\Debug\net6.0\Snake.AssemblyInfoInputs.cache
+D:\Tasks\Snake\Snake\obj\Debug\net6.0\Snake.AssemblyInfo.cs
+D:\Tasks\Snake\Snake\obj\Debug\net6.0\Snake.csproj.CoreCompileInputs.cache
+D:\Tasks\Snake\Snake\obj\Debug\net6.0\Snake.dll
+D:\Tasks\Snake\Snake\obj\Debug\net6.0\refint\Snake.dll
+D:\Tasks\Snake\Snake\obj\Debug\net6.0\Snake.pdb
+D:\Tasks\Snake\Snake\obj\Debug\net6.0\Snake.genruntimeconfig.cache
+D:\Tasks\Snake\Snake\obj\Debug\net6.0\ref\Snake.dll
